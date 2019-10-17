@@ -1,4 +1,3 @@
-# assessment-5
 # AirBNB
 
 ## Table of contents
@@ -18,10 +17,6 @@ In order to be able to execute your own python statements it should be noted tha
 
 ## Project motivation
 For the second term of the nanodegree [become a data scientist](https://eu.udacity.com/course/data-scientist-nanodegree--nd025) of [Udacity](https://eu.udacity.com/) I got involved in this project. 
-
-##Github
-https://github.com/ramya1990/assessment-5.git
-
 
 ## File descriptions
 
@@ -52,10 +47,19 @@ The most popular house size in Seattle are houses for 6 or 10 persons. Tourist p
   <img src="https://eu.udacity.com/assets/iridium/images/core/header/udacity-wordmark.svg" alt="Udacity Logo" width="490" height="106">
 </a>
 
-Thanks to [Udacity](https://eu.udacity.com/) for setting up the projects where we can do cool stuff!
+Thanks to [Udacity](https://eu.udacity.com/) for setting up the projects where we can learn alot!
 
 <a href="https://airbnb.com">
   <img src="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/102014/airbnb.png?itok=d2X_Ds1a" alt="Airbnb Logo">
 </a>
 
-Thanks to [Airbnb](https://airbnb.com) for providing cool data!
+Thanks to [Airbnb](https://airbnb.com) for providing data! 
+I have downloaded the data from kaggle.com
+—https://www.kaggle.com/airbnb/seattle/data
+
+##Github Link
+https://github.com/ramya1990/assessment-5.git
+##Blog post
+https://medium.com/@ramya.kode/feel-youself-big-at-seattle-with-the-help-of-smaller-cost-airbnb-offering-e4c659f99b4c
+
+
